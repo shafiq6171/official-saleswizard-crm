@@ -1,0 +1,188 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscriptions For WooCommerce 1.4.4\n"
+"POT-Creation-Date: 2022-10-16 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: WP Swings\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;"
+"translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: build\n"
+
+#. Author of the plugin
+msgid "4B Systems sp. z o.o"
+msgstr ""
+
+#: admin/partials/sales-wizard-field-maps.php:55
+msgid "Add"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:201
+msgid "API Key"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:192
+msgid "API Url"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:198
+msgid "api url"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:210
+msgid "API Version"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:185
+msgid "Check this box to send data to CRM."
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:33
+msgid "Contacts"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:107
+msgid "contacts Deleted Successfully"
+msgstr ""
+
+#: admin/partials/sales-wizard-reports.php:13
+msgid "contacts has been sent successfully!"
+msgstr ""
+
+#: admin/partials/sales-wizard-reports.php:5
+msgid "Contacts List"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:133
+msgid "contacts sents Successfully"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:35
+msgid "date"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:149
+msgid "Delete"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:183
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:279
+msgid "Export"
+msgstr ""
+
+#: admin/partials/sales-wizard-field-maps.php:35
+msgid "Field ID(wpform field id)"
+msgstr ""
+
+#: includes/class-sales-wizard-app.php:241
+msgid "Field Map"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:32
+msgid "Form name"
+msgstr ""
+
+#: admin/partials/sales-wizard-field-maps.php:27
+msgid "here"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://saleswizard.pl/plugin/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://saleswizard.pl/profile/"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:151
+msgid "Id of some field is missing"
+msgstr ""
+
+#: admin/partials/sales-wizard-field-maps.php:24
+msgid ""
+"In column ID use codes listed below. Use codes with uppercase letters and "
+"with underscore.\n"
+"Column ID is used to recognize data sent to SalesWizard CRM. You must use "
+"Column ID as a field name in Contact Form 7 and WP Form. Field ID use only "
+"for WP Form which refers to WP Forms field ID."
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:74
+msgid "Not sent"
+msgstr ""
+
+#: admin/partials/sales-wizard-app-admin-menu.php:32
+msgid "Official SalesWiazard CRM Plugin"
+msgstr ""
+
+#. Name of the plugin
+msgid "Official SalesWizard CRM"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Official SalesWizard CRM plugin which helps you to send all your enquires to "
+"your SalesWizard CRM"
+msgstr ""
+
+#: admin/partials/sales-wizard-field-maps.php:43
+msgid "Remove"
+msgstr ""
+
+#: includes/class-sales-wizard-app.php:236
+msgid "Report"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:107
+msgid "SalesWizard CRM"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:107
+msgid "SalesWizard CRM plugin"
+msgstr ""
+
+#: admin/partials/sales-wizard-field-maps.php:59
+msgid "Save"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:230
+msgid "Save Settings"
+msgstr ""
+
+#: admin/partials/sales-wizard-field-maps.php:27
+msgid "See column id example"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:150
+msgid "send to crm"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:77
+msgid "Sent"
+msgstr ""
+
+#: includes/class-sales-wizard-app.php:246
+msgid "Settings"
+msgstr ""
+
+#: admin/class-sales-wizard-app-contacts.php:34
+msgid "status"
+msgstr ""
+
+#: admin/class-sales-wizard-app-admin.php:219
+msgid "Test mode"
+msgstr ""

@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscriptions For WooCommerce 1.4.4\n"
+"POT-Creation-Date: 2022-10-12 06:39+0000\n"
+"PO-Revision-Date: 2022-10-16 14:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polski\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;"
+"translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: build\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#. Author of the plugin
+msgid "4B Systems sp. z o.o"
+msgstr "4B Systems sp. z o.o"
+
+#: admin/partials/sales-wizard-field-maps.php:55
+msgid "Add"
+msgstr "Dodaj"
+
+#: admin/class-sales-wizard-app-admin.php:202
+msgid "API Key"
+msgstr "Klucz API"
+
+#: admin/class-sales-wizard-app-admin.php:193
+msgid "API Url"
+msgstr "API URL"
+
+#: admin/class-sales-wizard-app-admin.php:199
+msgid "api url"
+msgstr "API URL"
+
+#: admin/class-sales-wizard-app-admin.php:211
+msgid "API Version"
+msgstr "Wersja API "
+
+#: admin/class-sales-wizard-app-admin.php:186
+msgid "Check this box to send data to CRM."
+msgstr "Zaznacz checkbox, aby wysyłać dane do SalesWizard CRM"
+
+#: admin/class-sales-wizard-app-contacts.php:33
+msgid "Contacts"
+msgstr "Kontakty"
+
+#: admin/class-sales-wizard-app-contacts.php:107
+msgid "contacts Deleted Successfully"
+msgstr "Kontakty zostały pomyślnie usunięte"
+
+#: admin/partials/sales-wizard-reports.php:13
+msgid "contacts has been sent successfully!"
+msgstr "Kontakty zostały pomyślnie wysłane!"
+
+#: admin/partials/sales-wizard-reports.php:5
+msgid "Contacts List"
+msgstr "Lista kontaktów"
+
+#: admin/class-sales-wizard-app-contacts.php:133
+msgid "contacts sents Successfully"
+msgstr "Kontakty zostały wysłane pomyślnie"
+
+#: admin/class-sales-wizard-app-contacts.php:35
+msgid "date"
+msgstr "Data"
+
+#: admin/class-sales-wizard-app-contacts.php:149
+msgid "Delete"
+msgstr "Usuń"
+
+#: admin/class-sales-wizard-app-admin.php:184
+msgid "Enable/Disable"
+msgstr "Włącz/Wyłącz"
+
+#: admin/class-sales-wizard-app-contacts.php:279
+msgid "Export"
+msgstr "Eksport"
+
+#: admin/partials/sales-wizard-field-maps.php:35
+msgid "Field ID(wpform field id)"
+msgstr "Pole ID (ID pola WPForms)"
+
+#: includes/class-sales-wizard-app.php:241
+msgid "Field Map"
+msgstr "Mapa pól"
+
+#: admin/class-sales-wizard-app-contacts.php:32
+msgid "Form name"
+msgstr "Nazwa formularza"
+
+#: admin/partials/sales-wizard-field-maps.php:27
+msgid "here"
+msgstr "tutaj"
+
+#. URI of the plugin
+msgid "https://saleswizard.pl/plugin/"
+msgstr "https://saleswizard.pl/plugin/"
+
+#. Author URI of the plugin
+msgid "https://saleswizard.pl/profile/"
+msgstr "https://saleswizard.pl/profile/"
+
+#: admin/class-sales-wizard-app-admin.php:152
+msgid "Id of some field is missing"
+msgstr "Brakuje ID pola formularza"
+
+#: admin/partials/sales-wizard-field-maps.php:24
+msgid ""
+"In column ID use codes listed below. Use codes with uppercase letters and "
+"with underscore.\n"
+"Column ID is used to recognize data sent to SalesWizard CRM. You must use "
+"Column ID as a field name in Contact Form 7 and WP Form. Field ID use only "
+"for WP Form which refers to WP Forms field ID."
+msgstr ""
+"W kolumnie ID użyj kodów wymienionych poniżej. Używaj kodów pisanych dużymi "
+"literami z podkreśleniem. Identyfikator kolumny służy do rozpoznawania "
+"danych wysyłanych do SalesWizard CRM. Musisz używać identyfikatora kolumny "
+"jako nazwy pola w wtyczkach Contact Forms 7 i WP Forms. Identyfikator pola "
+"jest używany tylko dla wtyczki WP Forms i odnosi się do identyfikatora pola "
+"formularzy WP Forms."
+
+#: admin/class-sales-wizard-app-contacts.php:74
+msgid "Not sent"
+msgstr "Nie wysłane"
+
+#. Name of the plugin
+msgid "Official SalesWizard CRM"
+msgstr "Oficjalna wtyczka SalesWizard CRM"
+
+#. Description of the plugin
+msgid ""
+"Official SalesWizard CRM plugin which helps you to send all your enquires to "
+"your SalesWizard CRM"
+msgstr ""
+"Oficjalna wtyczka SalesWizard CRM, dzięki której prześlesz wszystkie "
+"zapytania do SalesWizard CRM."
+
+#: includes/class-sales-wizard-app.php:236
+msgid "Report"
+msgstr "Raport"
+
+#: admin/class-sales-wizard-app-admin.php:107
+msgid "SalesWizard CRM"
+msgstr "SalesWizard CRM "
+
+msgid "SalesWizard CRM plugin"
+msgstr "Oficjalna wtyczka SalesWizard CRM"
+
+#: admin/partials/sales-wizard-field-maps.php:59
+msgid "Save"
+msgstr "Zapisz"
+
+#: admin/partials/sales-wizard-field-maps.php:27
+msgid "See column id example"
+msgstr "Zobacz listę pól identyfikatora kolumny"
+
+#: admin/class-sales-wizard-app-contacts.php:150
+msgid "Remove"
+msgstr "Usuń"
+
+#: admin/class-sales-wizard-app-contacts.php:77
+msgid "Sent"
+msgstr "Wysłano"
+
+#: includes/class-sales-wizard-app.php:246
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/class-sales-wizard-app-contacts.php:34
+msgid "status"
+msgstr "Status"
+
+#: admin/class-sales-wizard-app-contacts.php:150
+msgid "Send to CRM"
+msgstr "Wyślij do CRM"
+
+#: admin/class-sales-wizard-app-admin.php:220
+msgid "Test mode"
+msgstr "Tryb testowy"
+
+msgid "Save Settings"
+msgstr "Zapisz"
